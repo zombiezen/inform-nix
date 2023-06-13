@@ -21,4 +21,6 @@ nix run github:zombiezen/inform-nix -- -help
 ## License
 
 The flake is released as [MIT](./LICENSE), same as nixpkgs.
-Inform itself is released under 
+Inform itself is released under the [Artistic License 2.0][].
+
+[Artistic License 2.0]: https://github.com/ganelson/inform/blob/v10.1.2/LICENSE
