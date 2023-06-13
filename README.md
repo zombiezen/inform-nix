@@ -16,7 +16,7 @@ nix run github:zombiezen/inform-nix -- -help
 
 [Inform]: https://ganelson.github.io/inform-website/
 [Nix]: https://nixos.org/
-[open-sourcing]: https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674
+[open-sourcing of Inform]: https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674
 
 ## License
 
