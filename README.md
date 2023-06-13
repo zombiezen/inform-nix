@@ -11,7 +11,7 @@ I am publishing my efforts in the interest of someone helping upstream this.
 Try it out with:
 
 ```shell
-nix run github:zombiezen/inform-nix
+nix run github:zombiezen/inform-nix -- -help
 ```
 
 [Inform]: https://ganelson.github.io/inform-website/
