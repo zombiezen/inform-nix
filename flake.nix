@@ -24,6 +24,13 @@
         type = "app";
         program = "${self.packages.${system}.inweb}/bin/inweb";
       };
+
+      packages.glulxe = pkgs.callPackage ./glulxe.nix {};
+
+      apps.glulxe = {
+        type = "app";
+        program = "${self.packages.${system}.glulxe}/bin/glulxe";
+      };
     }
   );
 }
